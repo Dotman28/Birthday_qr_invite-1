@@ -1,0 +1,4 @@
+Flask
+sendgrid
+python-dotenv
+qrcode[pil]
